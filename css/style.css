@@ -1,0 +1,51 @@
+body{
+  background-color: #4C4C4C;
+}
+
+.cal{
+  margin: auto;
+  width: 200px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #808080;
+  border-radius: 2px;
+  
+}
+
+h3{
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.item{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #808080;
+  height: 50px;
+  text-align: center;
+  padding: 15px;
+  background-color: #E9ECF0;
+  
+}
+
+#zero{
+  text-align: left;
+  padding: 15px 15px 15px 20px;
+}
+#C,#CE,#blank{
+  background-color: #DCDCDC;
+}
+
+#plus,#equal,#sub,#divide,#mul{
+  background-color: #FF9D47;  
+}
+
+#display{
+  background-color: #808080;
+  height: 55px;
+  padding: 10px;
+  text-align: right;
+  color: white;
+  font-size: 1.5em;
+}
